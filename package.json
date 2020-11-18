@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "domino": "^2.1.6",
+    "node-fetch": "^2.6.1",
+    "pretty-bytes": "^5.4.1"
+  }
+}
